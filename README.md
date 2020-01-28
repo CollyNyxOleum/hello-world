@@ -5,3 +5,6 @@ I have deleted the previous words here and see what happens when I recommit a br
 
 
 I am using the git command line to type this up and commit the new changes.
+
+
+I am now using a branch on command line and adding it to git.
